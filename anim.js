@@ -4,20 +4,20 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "No se si esto es amor", time: 12 },
-  { text: "Rio mirando al phone", time: 33},
-  { text: "Nena te envidia el sol", time: 42},
-  { text: "Por que brillas como el", time: 65 },
-  { text: "Planetas a tu alredor", time: 74 },
-  { text: "Ohhhhh", time: 96 },
-  { text: "El viento sopla tu merced", time: 100 },
-  { text: "La sabana se hizo mantel", time: 120 },
-  { text: "Por que arriba quiero comerte", time: 130 },
-  { text: "Tus piernas penetran mi mente...", time: 158 },
-  { text: "Y siento ese medio caliente", time: 17 },
-  { text: "Hablame que quiero entenderte", time: 18 },
-  { text: "TAS susurrando un monton de pecados", time: 19 },
-  { text: "Hagamoslo lento que yo soy pasciente", time: 22 },
+  { text: "No se si esto es amor", time: 10 },
+  { text: "Rio mirando al phone", time: 13},
+  { text: "Nena te envidia el sol", time: 14},
+  { text: "Por que brillas como el", time: 16 },
+  { text: "Planetas a tu alredor", time: 17 },
+  { text: "Ohhhhh", time: 19 },
+  { text: "El viento sopla tu merced", time: 20 },
+  { text: "La sabana se hizo mantel", time: 22 },
+  { text: "Por que arriba quiero comerte", time: 23 },
+  { text: "Tus piernas penetran mi mente...", time: 25 },
+  { text: "Y siento ese medio caliente", time: 27 },
+  { text: "Hablame que quiero entenderte", time: 28 },
+  { text: "TAS susurrando un monton de pecados", time: 29 },
+  { text: "Hagamoslo lento que yo soy pasciente", time: 30 },
 ];
 
 // Animar las letras
