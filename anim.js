@@ -29,7 +29,7 @@ function updateLyrics() {
 
   if (currentLine) {
     // Calcula la opacidad basada en el tiempo en la línea actual
-    var fadeInDuration = 0.1; // Duración del efecto de aparición en segundos
+    var fadeInDuration = 0.01; // Duración del efecto de aparición en segundos
     var opacity = Math.min(1, (time - currentLine.time) / fadeInDuration);
 
     // Aplica el efecto de aparición
