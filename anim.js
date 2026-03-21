@@ -4,11 +4,11 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "No se si esto es amor", time: 1 },
-  { text: "Rio mirando al phone", time: 3},
-  { text: "Nena te envidia el sol", time: 4},
-  { text: "Por que brillas como el", time: 6 },
-  { text: "Planetas a tu alredor", time: 7 },
+  { text: "No se si esto es amor", time: 0.8 },
+  { text: "Rio mirando al phone", time: 1},
+  { text: "Nena te envidia el sol", time: 2},
+  { text: "Por que brillas como el", time: 4 },
+  { text: "Planetas a tu alredor", time: 6 },
   { text: "Ohhhhh", time: 9 },
   { text: "El viento sopla tu merced", time: 10 },
   { text: "La sabana se hizo mantel", time: 12 },
