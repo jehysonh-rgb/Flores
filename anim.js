@@ -1,10 +1,10 @@
 // Sincronizar las letras con la canción
-var audio = document.querySelector("audio");
+
 var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "No se si esto es amor", time: 0,3 }
+  { text: "No se si esto es amor", time: 0,3 },
   { text: "Rio mirando al phone", time: 0.,7},
   { text: "Nena te envidia el sol", time: 2},
   { text: "Por que brillas como el", time: 4 },
